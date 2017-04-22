@@ -70,3 +70,4 @@ Command + / to quickly comment out code in Atom
 DRY—Don't Repeat Yourself—looking for lines of code that are identical, or follow the same pattern
 
 Timeboxing!
+Making a change!
