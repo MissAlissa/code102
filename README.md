@@ -28,3 +28,5 @@ Welcome to Code 102! We're going to spend five nights covering the essentials of
   * [Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
   * [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+making a change--Friday!
